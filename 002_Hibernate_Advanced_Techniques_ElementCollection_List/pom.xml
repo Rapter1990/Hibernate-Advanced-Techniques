@@ -28,7 +28,7 @@
 		<oracle.jsbc.version>12.1.0</oracle.jsbc.version>
 
 		<!-- Hibernate Version Version -->
-		<hibernate.version>5.4.1.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 
 	</properties>
 
